@@ -22,18 +22,6 @@ Un pipeline automatisé, sans biais éditorial, basé uniquement sur de la data 
 
 ---
 
-## Stack envisagée
-
-| Brique | Technologie |
-|---|---|
-| Ingestion | Python + RSS / scraping |
-| Extraction & vérification | LLM (ex. GPT-4o, Mistral) |
-| Sources de référence | INSEE, Cour des Comptes, data.gouv.fr |
-| Dashboard | JSON → site statique (GitHub Pages) |
-| Génération de contenu | LLM + synthèse vidéo/image |
-
----
-
 ## Comment contribuer
 
 Ce projet est communautaire. Voici les briques sur lesquelles on a besoin de monde :
